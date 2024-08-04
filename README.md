@@ -1,42 +1,40 @@
- Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-# مرحبًا بكم في ملفي الشخصي على GitHub! 👋
+I am [Mohamed](https://github.com/mohamed010917), a passionate software developer specializing in web applications using Laravel and JavaScript. I love learning new technologies and sharing knowledge with the community.
 
-أنا [محمد](https://github.com/mohamed010917)، مطور برمجيات متحمس ومتخصص في تطوير تطبيقات الويب باستخدام Laravel و JavaScript. أحب تعلم التقنيات الجديدة ومشاركة المعرفة مع المجتمع.
+## Contact Information 📫
 
-## معلومات الاتصال 📫
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
 
-- **البريد الإلكتروني**: [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [Twitter Profile](https://twitter.com/yourprofile)
-- **Facebook**: [Facebook Profile](https://facebook.com/yourprofile)
+## About Me 💼
 
-## حولي 💼
+- 🔭 Currently working on open-source projects
+- 🌱 Currently learning GraphQL and DevOps
+- 👯 Looking to collaborate on Laravel and JavaScript projects
+- 🤔 Seeking help with improving my cybersecurity skills
+- 💬 Ask me about anything related to web development
+- 📫 How to reach me: [youremail@example.com](mailto:youremail@example.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love coding and technical challenges
 
-- 🔭 أعمل حاليًا على مشاريع مفتوحة المصدر
-- 🌱 أتعلم حاليًا GraphQL و DevOps
-- 👯 أبحث عن التعاون في مشاريع Laravel و JavaScript
-- 🤔 أبحث عن المساعدة في تحسين مهاراتي في الأمان السيبراني
-- 💬 اسألني عن أي شيء يتعلق بتطوير الويب
-- 📫 كيف تصل إلي: [youremail@example.com](mailto:youremail@example.com)
-- 😄 الضمائر: هو/له
-- ⚡ معلومة ممتعة: أحب البرمجة والتحديات التقنية
+## My Skills 🔧
 
-## مهاراتي 🔧
+- **Languages**: PHP, JavaScript, HTML, CSS
+- **Frameworks**: Laravel, Vue.js, React
+- **Tools**: Git, Docker, Composer, NPM
 
-- **اللغات**: PHP, JavaScript, HTML, CSS
-- **الأطر**: Laravel, Vue.js, React
-- **الأدوات**: Git, Docker, Composer, NPM
-
-## إحصائيات GitHub 📊
+## GitHub Stats 📊
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed010917&show_icons=true&theme=radical)](https://github.com/mohamed010917)
 
-## روابط أخرى 🌐
+## Other Links 🌐
 
-- **موقعي الشخصي**: [My Website](https://yourwebsite.com)
-- **مدونتي**: [My Blog](https://yourblog.com)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.com)
 
 ---
 
-شكرًا لزيارتك ملفي الشخصي! لا تتردد في التواصل معي عبر البريد الإلكتروني أو على وسائل التواصل الاجتماعي. 🌟
+Thank you for visiting my profile! Feel free to reach out via email or social media. 🌟
